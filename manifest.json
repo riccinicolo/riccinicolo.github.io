@@ -1,11 +1,11 @@
 {
-    "name": "marta_first_web_app",
-    "short_name": "marta_first_web_app",
+    "name": "Marta Burelli Psicologa",
+    "short_name": "martaBurelli",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Marta First web app",
+    "description": "Marta Burelli Psicologa",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
