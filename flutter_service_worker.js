@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "daef7e23e7ff9d999196b59b29744a73",
-"index.html": "148e0c77278676e3d831101c9a131b89",
-"/": "148e0c77278676e3d831101c9a131b89",
-"main.dart.js": "1313f1d1582dacc61cc9a81bc4d1c020",
+"index.html": "daed10dbb2044094ea5356d396738124",
+"/": "daed10dbb2044094ea5356d396738124",
+"main.dart.js": "32aa766ecc5eeadb568a68f71d19d3ca",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -19,9 +19,9 @@ const RESOURCES = {
 "assets/images/lotus_flower.jpg": "90e31e51b5846db33dc9632b4869fcda",
 "assets/images/flower_4.jpg": "bb0d179c2e3345cfd0001da07bd347f3",
 "assets/images/centro_cuore.png": "d1d6c7062fb1859795df100913adf1c9",
-"assets/AssetManifest.json": "4becf3f706b8a54b9c3c9de009b9f813",
+"assets/AssetManifest.json": "db5e38dad232011432fc6f7c5006b6af",
 "assets/NOTICES": "4b3134ab03d6c89135a64769eac25849",
-"assets/FontManifest.json": "b6f34a41b569cf8a216f6bfae2041934",
+"assets/FontManifest.json": "1d7d45f3f50e6c3beae733c909553dd8",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size3-Regular.ttf": "e87212c26bb86c21eb028aba2ac53ec3",
@@ -45,17 +45,13 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/fonts/Merienda-Bold.ttf": "44525b3c3cbbe558ef81e46202214399",
-"assets/fonts/avenir-lt-35-light.ttf": "b4fdc7ffb804bc2732e7781ed209cbb5",
 "assets/fonts/LibreBaskerville-Italic.ttf": "432e7d14cf22f180b0269cf05defaeb1",
 "assets/fonts/LibreBaskerville-Regular.ttf": "fac7df0a4714aacd0bfbca6cf57a488c",
 "assets/fonts/Merienda-Regular.ttf": "37794e74f8aea133479ab6b268e4467d",
 "assets/fonts/LibreBaskerville-Bold.ttf": "365ef8f393445525c3a0b4830cb46d80",
+"assets/fonts/AvenirLTStd-Book.otf": "ecb0c2ae369ba2a89d9a1ec2a1b3187b",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/fonts/Didot%2520Regular.ttf": "251039e6849ad977a8bfc40b564dce89",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/fonts/Didot%2520Regular.ttf": "251039e6849ad977a8bfc40b564dce89"
 };
 
 // The application shell files that are downloaded before a service worker can
