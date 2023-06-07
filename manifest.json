@@ -1,11 +1,11 @@
 {
-    "name": "Marta Burelli Psicologa",
+    "name": "Marta Burelli - Psicologa Treviso",
     "short_name": "martaBurelli",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Marta Burelli Psicologa",
+    "description": "Marta Burelli - Psicologa Treviso",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
